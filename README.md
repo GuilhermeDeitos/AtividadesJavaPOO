@@ -6,7 +6,7 @@ Programas desenvolvidos em Java na matéria de Programação Orientada a Objetos
 <p> Crie uma classe chamada Contagem que contenha quatro métodos com o nome “contar” utilizando
 o conceito da sobrecarga. A assinatura e função de cada método aparecem descritas na tabela
 em anexo. Faça também outra classe para testar o método. </p>
-<img src="">
+<img src="https://github.com/GuilhermeDeitos/AtividadesJavaPOO/blob/main/img/tabela.png">
 
 <h3> Atividade 11</h3> 
 <p>Crie uma classe chamada Senha que contenha um método chamado gerar que retorna uma senha
@@ -31,10 +31,11 @@ b. um método que recebe um valor inteiro (n) e retorna um array contendo n elem
 
 <h3> Atividade 14</h3> 
 <p>Considere a representação da classe Brinquedo na imagem em anexo. Elabore essa classe em Java contendo os métodos get e set necessários. O atributo faixaEtaria é um atributo do tipo String que deve receber apenas um dos valores seguintes: “0 a 2”, “3 a 5”, “6 a 10” e “acima de 10”. Outros valores são inválidos e não devem ser armazenados. Essa validação deve ser realizada no método setFaixaEtaria. A seguir, elabore a classe UsaBrinquedo para testar as funcionalidades da classe Brinquedo. </p>
-<img src="">
+<img src="https://github.com/GuilhermeDeitos/AtividadesJavaPOO/blob/main/img/ClasseBrinquedo.png">
 
 <h3> Atividade 15</h3> 
 <p>Crie uma hierarquia de classes com os seguintes atributos e comportamentos (ver figura em anexo), distribua as características de forma que tudo o que for comum a todos os animais fique na classe Animal.</p>
+<img src="https://github.com/GuilhermeDeitos/AtividadesJavaPOO/blob/main/img/diagrama.png">
 
 <h3> Atividade 16</h3> 
 <p>Implemente uma classe que crie os 3 tipos de animais definidos na atividade remota 15 e invoque o método que emite o som de cada um de forma polimórfica, isto é, independente do tipo de animal.</p>

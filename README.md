@@ -39,3 +39,11 @@ b. um método que recebe um valor inteiro (n) e retorna um array contendo n elem
 
 <h3> Atividade 16</h3> 
 <p>Implemente uma classe que crie os 3 tipos de animais definidos na atividade remota 15 e invoque o método que emite o som de cada um de forma polimórfica, isto é, independente do tipo de animal.</p>
+
+<h3> Atividade 17</h3> 
+<p>Implemente uma classe Veterinário que contenha um método examinar() cujo parâmetro de entrada é um Animal, quando o animal for examinado ele deve emitir um som, passe os 3 animais com parâmetro.</p>
+
+
+<h3> Atividade 18</h3> 
+<p>Crie uma classe abstrata Conta Bancaria que contém como atributos o numero da conta  e  o  saldo,  e  como  métodos  abstratos  sacar  e  depositar  que  recebem  um parâmetro do tipo double.  Em seguida crie as classes Conta Corrente e Conta Poupança que herdam da Conta Bancaria. A classe Conta Corrente possui um atributo limite que dá credito a  mais para o correntista caso  ele precise sacar  mais  que o saldo. Neste caso, o saldo pode ficar negativo desde que não ultrapasse o valor do limite. Contudo isso não pode acontecer na classe Conta Poupança. A classe Conta Poupança possui um atributo taxaDeOperação que é descontado sempre que um saque e um depósito são realizados. Por fim crie uma classe de teste.</p>
+
